@@ -26,7 +26,7 @@ async def _(e):
         if len(e.text) > 7:
             bc = deadly[0]
             Xd = int(bc)
-            text = "Leaving....."
+            text = "Ja rha mocha...."
             event = await e.reply(text, parse_mode=None, link_preview=None )
             try:
                 await event.client(LeaveChannelRequest(Xd))
