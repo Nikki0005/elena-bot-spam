@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from Godfather import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://telegra.ph//file/cc7f98065011c35d3ab01.jpg"
 
 ZAID_Help = "🔥 Dᴇᴀᴅʟʏ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
  
@@ -36,7 +36,7 @@ async def help(event):
                                   caption=ZAID_Help,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/DEADLY_SPAMMER")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/R_ONE_OP")
         ] 
         ]
         )                                                         
