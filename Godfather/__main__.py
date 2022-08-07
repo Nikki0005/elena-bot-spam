@@ -22,8 +22,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("🎉 Deadly Spam Bot Successfully Deployed 🎉 @Timesisnotwaiting")
-print("Enjoy! Do visit @Deadly_Spam_bot")
+print("🎉 Deadly Spam Bot Successfully Deployed 🎉 @PURE_SOUL_NIKKY")
+print("Enjoy! Do visit @R_ONE_OP")
 
 if __name__ == "__main__":
     BOT0.run_until_disconnected()
