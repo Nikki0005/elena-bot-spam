@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=deadly,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/DEADLY_SPAMMER"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DEADLY_SPAM_BOT")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/R_ONE_OP"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/R_ONE_OP")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Godfatherakkii/SAVAGE-BOTFATHER-SPAM")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/R_ONE_OP")
         ]
         ]
         )
@@ -83,11 +83,11 @@ def get_readable_time(seconds: int) -> str:
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        text = "MOCHA!"
+        text = "🎂🥳HAPPY BIRTHDAY ELENA🥳🎂"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 🇲 🇴 🇨 🇭 🇦  !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 🥳🎂 🇭 🇦 🇵 🇵 🇾  🇧 🇮 🇷 🇹 🇭 🇩 🇦 🇾  🇪 🇱 🇪 🇳 🇦🥰🥰    !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
