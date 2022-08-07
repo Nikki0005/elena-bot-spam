@@ -83,11 +83,11 @@ def get_readable_time(seconds: int) -> str:
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        text = "🎂🥳HAPPY BIRTHDAY ELENA🥳🎂"
+        text = "🎂🥳ʜᴀᴘᴘʏ ʙɪʀᴛʜᴅᴀʏ ᴇʟᴇɴᴀ🥳🎂"
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🎉 🥳🎂 🇭 🇦 🇵 🇵 🇾  🇧 🇮 🇷 🇹 🇭 🇩 🇦 🇾  🇪 🇱 🇪 🇳 🇦🥰🥰    !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🎉 🥳🎂  𝙃𝘼𝙋𝙋𝙔 𝘽𝙄𝙍𝙏𝙃𝘿𝘼𝙔 𝙀𝙇𝙀𝙉𝘼🥳🥳🎂  !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
