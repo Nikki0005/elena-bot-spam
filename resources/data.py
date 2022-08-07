@@ -1,26 +1,20 @@
 RAID = [
-    
     "May you have such an incredibly special birthday that every day afterward starts and ends with love and Peace of Mind.
 Happy Birthday!",
-    
-     "A Birthday is just another day where you go to work and people give you love.
+    "A Birthday is just another day where you go to work and people give you love.
 Age is just a state of mind and you are as old as you think you are.
 You have to count your blessings and be happy.
 Happy Birthday Elena!",
-    
-      "Wishing you a day that is as special in every way as you are. Enjoy your Day!",
+    "Wishing you a day that is as special in every way as you are. Enjoy your Day!",
     "I hope your special day will bring you lots of happiness love and fun. You deserve them a lot. Enjoy.
 Happy Birthday Elena!",
     "I hope your special day will bring you lots of happiness love and fun. You deserve them a lot. Enjoy.
 Happy Birthday Elena!",
-     
      "Thinking of you with Love on your Birthday and wishing you everything that brings you happiness today and always.
-Happy Birthday!",
-
+Happy Birthday!", 
       "Wishing you a day filled with many pleasant surprises and tons of gifts. A lot of love for you on this special day. A very Happy Birthday to one of the sweet persons I have known. Keep Smiling.
 Happy Birthday!",
-   
-       "The best things are always those which we cannot have what we wait for years. Those are always the most beautiful dreams colorful and from a fairy tale world. Today on your birthday I wish you receive what you always dreamt of! All the Best to you.
+      "The best things are always those which we cannot have what we wait for years. Those are always the most beautiful dreams colorful and from a fairy tale world. Today on your birthday I wish you receive what you always dreamt of! All the Best to you.
 Happy Birthday!"
     "Today is your day. Dance with fairies ride a unicorn swim with mermaids and chase rainbows.",
     "You have the biggest heart in the world! Thank you for keeping me in it. Happy birthday!",
