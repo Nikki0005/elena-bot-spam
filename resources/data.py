@@ -95,6 +95,8 @@ Daaman mein bhar doon har pal khushi ko main tumhre",
 देनेवाला जिंदगी की हर खुशी दे आपको…
 जन्मदिन मुबारक !",
     "Happy birthday @sh_elenaa ",
+    "Wish you happy birthday bhootni",
+    "Happy birthday tu hamesha khush rhe",
 ]
 
 DEADLYSPAM = [1517994352, 2086101519, 136817688]
