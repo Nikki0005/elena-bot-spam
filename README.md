@@ -1,7 +1,7 @@
 # DEADLY SPAMBOT
 
 <p align="center">
-  <img src="https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg">
+  <img src="https://telegra.ph//file/c61a5278c025d0f7f1a1b.jpg">
 </p>
 
 
