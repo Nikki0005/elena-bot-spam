@@ -9,20 +9,20 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07
 
 Deadly_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/Deadly_Spam_Bot")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/R_ONE_OP")
         ],
         [
-        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/Timesisnotwaiting")
+        Button.url("• ᴍᴀɪɴᴛᴀɪɴ ʙʏ •", "https://t.me/R_ONE_OP")
         ]
         ]
                
 DeadlyX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/deadly_spammer"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/deadly_spam_bot")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/R_ONE_OP"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/R_ONE_OP")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Godfatherakkii/DEADLY-SPAMBOT")
+        Button.url("• ʀᴇᴘᴏ •", "https://t.me/R_ONE_OP")
         ]
         ]
         
@@ -49,7 +49,7 @@ async def start(event):
        TheDeadly = event.chat_id
        firstname = replied_user.user.first_name
        ownermsg = f"**Hi Master, Its me {bot_id}, Your Spam Bot !! \n\n Click Below Buttons For help**"
-       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**"
+       usermsg = f"**Hello, {firstname} ! Nice To Meet You, say happy birthday to @sh_Elenaa .** \n\n**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheDeadly,
                   DEADLY_IMG,
