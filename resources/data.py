@@ -1,22 +1,42 @@
 RAID = [
-    "MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI VAHEEN NHI HAI KYA? 9 MAHINE RUK SAGI VAHEEN DETA HU 🤣🤣🤩",
-    "TERI MAA K BHOSDE ME AEROPLANEPARK KARKE UDAAN BHAR DUGA ✈️🛫",
-    "TERI MAA KI CHUT ME SUTLI BOMB FOD DUNGA TERI MAA KI JHAATE JAL KE KHAAK HO JAYEGI💣",
-    "TERI MAAKI CHUT ME SCOOTER DAAL DUGA👅",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
-    "TERI MAA KI CHUT KAKTE 🤱 GALI KE KUTTO 🦮 ME BAAT DUNGA PHIR 🍞 BREAD KI TARH KHAYENGE WO TERI MAA KI CHUT",
-    "DUDH HILAAUNGA TERI VAHEEN KE UPR NICHE 🆙🆒😙",
-    "TERI MAA KI CHUT ME ✋ HATTH DALKE 👶 BACCHE NIKAL DUNGA 😍",
-    "TERI BEHN KI CHUT ME KELE KE CHILKE 🍌🍌😍",
-    "TERI BHEN KI CHUT ME USERBOT LAGAAUNGA SASTE SPAM KE CHODE",
-    "TERI VAHEEN DHANDHE VAALI 😋😛",
-    "TERI MAA KE BHOSDE ME AC LAGA DUNGA SAARI GARMI NIKAL JAAYEGI",
-    "TERI VAHEEN KO HORLICKS PEELAUNGA MADARCHOD😚",
-    "TERI MAA KI GAAND ME SARIYA DAAL DUNGA MADARCHOD USI SARIYE PR TANG KE BACHE PAIDA HONGE 😱😱",
-    "TERI MAA KO KOLKATA VAALE JITU BHAIYA KA LUND MUBARAK 🤩🤩",
+    "Dear Elena,
+May you have such an incredibly special birthday that every day afterward starts and ends with love, and Peace of Mind.
+Happy Birthday!",
+    "Dear Elena
+A Birthday is just another day where you go to work and people give you love.
+Age is just a state of mind, and you are as old as you think you are.
+You have to count your blessings and be happy.
+Happy Birthday Elena!",
+    "Happy Birthday Elena,
+Wishing you a day that is as special in every way as you are. Enjoy your Day!",
+    "I hope your special day will bring you lots of happiness, love, and fun. You deserve them a lot. Enjoy.
+Happy Birthday Elena!",
+    "I hope your special day will bring you lots of happiness, love, and fun. You deserve them a lot. Enjoy.
+Happy Birthday Elena!",
+    "Happy Birthday!
+
+Hi Elena,
+Thinking of you with Love on your Birthday and wishing you everything that brings you happiness today and always.
+Happy Birthday!",
+    "Dear Elena
+Wishing you a day filled with many pleasant surprises and tons of gifts. A lot of love for you on this special day. A very Happy Birthday to one of the sweet persons I have known. Keep Smiling.
+Happy Birthday!",
+    "Dear Elena
+The best things are always those which we cannot have, what we wait for years. Those are always the most beautiful dreams, colorful and from a fairy tale world. Today, on your birthday, I wish you receive what you always dreamt of! All the Best to you.
+Happy Birthday!",
+    "Today is your day. Dance with fairies, ride a unicorn, swim with mermaids, and chase rainbows.",
+    "You have the biggest heart in the world! Thank you for keeping me in it. Happy birthday!",
+    "Happy birthday to a person that’s charming, talented, and witty, and reminds me a lot of myself.",
+    "May your day be as beautiful as you. Happy birthday, friend!",
+    "Happy birthday bestie me tuje nhi chord skta kabhi",
+    "You are my kind of crazy and that is what life is really about! Happy birthday.",
+    "ऐसी क्या दुआ दूँ आपको, जो आपके लबों पर ख़ुशी के फूल खिला दे;
+बस ये दुआ है मेरी,सितारों सी रौशनी खुदा आपकी तकदीर बना दे।
+जन्मदिन मुबारक!",
+    "may ur day b filled with laughter
+on dis ur spcl day many finest thing, in lyf always come ur way..Happy b’day..",
+    "May your day be as beautiful as you. Happy birthday, friend!",
+    "Someone I love was born today.",
     "TERI MUMMY KI FANTASY HU LAWDE, TU APNI BHEN KO SMBHAAL 😈😈",
     "TERA PEHLA BAAP HU MADARCHOD ",
     "TERI VAHEEN KE BHOSDE ME XVIDEOS.COM CHALA KE MUTH MAARUNGA 🤡😹",
